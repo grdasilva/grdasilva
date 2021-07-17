@@ -10,7 +10,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-silva-3a4419151/)](https://www.linkedin.com/in/guilherme-silva-3a4419151/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guirod961@gmail.com)](mailto:guirod961@gmail.com)
 
-My name is Guilherme Rodrigues da Silva . I'm from São Paulo - SP, Brazil, I'm graduated in Information Systems from University São Judas Tadeu, I finished graduation in December 2020. 
+My name is Guilherme Rodrigues da Silva, an Frontend Developer. I'm from São Paulo - SP, Brazil, I'm graduated in Information Systems from University São Judas Tadeu, I finished graduation in December 2020. 
   
 ## 💻 Projects I Participated In
 MAC Construtora e Incorporadora <br />
