@@ -18,14 +18,15 @@ Avanade | Banco Safra <br />
 Avanade | Natura <br />
 Banco Itaú <br />
 BRQ Digital Solutions | Banco Santander <br />
-BRQ Digital Solutions | Renault (at moment) <br />
+BRQ Digital Solutions | Renault <br />
+Axur (at moment) <br />
 
 ## 👯 Communities
 Microsoft Student Partner
 GitHub Student Partner
 
 ## ⚡ Technologies
-Front-end development using **HTML, Javascript/Typescript,CSS, SCSS** <br />
+Front-end development using **HTML, Javascript/Typescript, CSS, SCSS, Styled Components and Storybook** <br />
 Backend development using **Node.js, Express** <br />
 Making for **Non-Relational Database Management Systems** <br />
 Desktop application development using **Angular and React (actual focus)** (But still learning) <br />
